@@ -5,6 +5,13 @@ body {
  }
 /* Toggle Styles */
 
+#menu-toggle{
+    color: black;
+    font-size: 25px;
+}
+.text-center{
+    padding-top: 10px;
+}
 #wrapper {
     padding-left: 0;
     -webkit-transition: all 0.5s ease;
@@ -25,7 +32,7 @@ body {
     height: 100%;
     margin-left: -250px;
     overflow-y: auto;
-    background: #0b0b0f;
+    background: #73738c;
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
